@@ -2,6 +2,13 @@
   background-color: steelblue;
 }
 #imagesdra{
-  height: 600px;
-  width: 800px;
+  height: 200px;
+  width: 300px;
+}
+.container-fluid-2{
+  background-color: steelblue;
+}
+.ha{
+  font-family: Garamond, serif;
+  font-size: 30px;
 }
