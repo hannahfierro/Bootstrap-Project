@@ -3,7 +3,7 @@
 }
 #imagesdra{
   height: 800px;
-  width: 1900px;
+  width: 1500px;
 }
 .container-fluid-2{
   background-color: steelblue;
@@ -11,4 +11,8 @@
 .ha{
   font-family: Garamond, serif;
   font-size: 30px;
+}
+.haa{
+  font-family: Garamond, serif;
+  font-size: 20px;
 }
